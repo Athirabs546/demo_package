@@ -172,3 +172,4 @@ cython_debug/
 test.py
 test.ipynb
 /demoenv
+data.csv
